@@ -36,6 +36,7 @@ Clique com o botão direito e selecione Run para executar os testes.
 Via Maven (Terminal):
 mvn test -Dtest=LoginTest
 
+
 Considerações Finais
 Agora você está pronto para rodar tanto o sistema quanto os testes automatizados do SauceDemo! Para quaisquer problemas ou dúvidas, consulte a documentação do Selenium WebDriver ou entre em contato com a equipe de desenvolvimento.
 
